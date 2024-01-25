@@ -1,4 +1,4 @@
-* [Бинарный поиск](https://replit.com/@TimurRakh/Task2#Main.java))
+* [Бинарный поиск](https://replit.com/@TimurRakh/Task2#Main.java)
 * [Рекурсия](https://replit.com/@TimurRakh/dynamic#Main.java))
 * [Сортировки](https://github.com/SolonceNew/MergeSortAlg)
 * [Бинарные деревья и пирамиды](https://replit.com/@TimurRakh/idealBynaryTree#Main.java)
